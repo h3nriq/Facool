@@ -1,0 +1,3 @@
+Ana Clara
+
+08/10/2019 - Adicionado exemplo de projeto usando o framework Django
